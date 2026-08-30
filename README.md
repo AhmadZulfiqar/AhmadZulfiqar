@@ -16,3 +16,5 @@ Hi there! 👋 I am an aspiring Information Technology professional currently in
 [![](https://komarev.com/ghpvc/?username=AhmadZulfiqar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Live Portfolio & Projects
+- Check out my official portfolio: [Zulfiqar Ahmad | Full Stack Developer](https://zulfiqar-portfolio-web.vercel.app)
